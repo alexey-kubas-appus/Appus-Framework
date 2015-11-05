@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.author                = { "Username" => "ilya.borshchov@gmail.com" }
   s.platform              = :ios, "8.0"
   s.source = {
-    :http => "https://www.dropbox.com/s/wsr56q5eyes7ona/Appus.framework.zip?dl=0"
+    :http => "https://dl.dropboxusercontent.com/u/48670573/Appus.framework.zip"
   }
   s.framework             = "Foundation"
   s.vendored_frameworks   = "Appus.framework"
